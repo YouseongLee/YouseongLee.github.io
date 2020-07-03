@@ -29,7 +29,7 @@ Also deals with numerical analysis involving partial differential equations.
 - Bronze medal in International Mathematical Olympiads (2015).    
 
 ## Courses Taken
-- Mathematics:					 
+- Mathematics:   
 Operator Algebra   
 Algebraic Number Theory   
 Introduction to Modular Forms & Cyclotomic Fields   
@@ -48,7 +48,7 @@ Undergraduate Analysis I, II
 Linear Algebra I, II   
 Introduction to Scientific Computation   
 
-### Physics:
+- Physics:   
 Quantum Field Theory I, II   
 General Relativity   
 Relativity and Spacetime   

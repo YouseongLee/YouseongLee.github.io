@@ -24,7 +24,7 @@ Also deals with numerical analysis involving partial differential equations.
 - Jul.2019 ~ Aug.2019, Participated in _"The 2nd International Undergraduate Mathematics Summer School"_ at The University of Tokyo, Tokyo, Japan. The lectures covered symplectic geometry, operator algebras, representation theory of Lie groups, local class field theory, K-theory, projective varieties, etc.   
 See: http://park.itc.u-tokyo.ac.jp/MSF/UGMSS/
 
-- Jan.2018, Conference _"Nerd Party Conference"_, Konkuk University, _Music of the Spheres: Plato, Galois, and Physics._
+- Jan.2018, Conference _"Nerd Party Conference"_, Konkuk University, _Music of the Spheres: Plato, Galois, and Physics._   
 Introduction to Stable homotopy groups, concept of spectral algebraic geometry, equivariant homotopy groups, chromatic homotopy theory & its relation with quantum field theory, Hopf-Galois theory in spectra.
 
 - Jul.2018, Conference _"Nerd Party Conference"_, Sejong University, _Category Theory and Physics._   

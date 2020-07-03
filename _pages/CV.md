@@ -23,7 +23,8 @@ Studies Higher Category Theory, Chromatic Homotopy Theory, Higher Gauge Theory, 
 Also deals with numerical analysis involving partial differential equations.    
 
 ## Conferences
-- Jul.2019 ~ Aug.2019, Participated in _"The 2nd International Undergraduate Mathematics Summer School"_ at The University of Tokyo, Tokyo, Japan. The lectures covered symplectic geometry, operator algebras, representation theory of Lie groups, local class field theory, K-theory, projective varieties, etc.   
+- Jul.2019 ~ Aug.2019, Participated in _"The 2nd International Undergraduate Mathematics Summer School"_ at The University of Tokyo, Tokyo, Japan.   
+The lectures covered symplectic geometry, operator algebras, representation theory of Lie groups, local class field theory, K-theory, projective varieties, etc.   
 See: http://park.itc.u-tokyo.ac.jp/MSF/UGMSS/
 
 - Jan.2018, Conference _"Nerd Party Conference"_, Konkuk University, _Music of the Spheres: Plato, Galois, and Physics._   
@@ -35,15 +36,19 @@ Introduction to category theory, Higher gauge theory, Differential cohomology an
 - Jun.2018, Conference _"Stupid Mathematics Seminar"_ the undergraduate joint seminar, Seoul National University, _Introduction to ∞-category Theory: A View Toward Morse Theory,_ organized by Beomjoon Sohn.   
 A quick review of _Higher Topos Theory_ by J. Lurie and intruduction to paper _"Associative Algebras and Broken Lines"_ by J. Lurie, H. L. Tanaka.
 
-- Jun.2018, Participated in _"CIMPA-NIMS Research School on symplectic embeddings, systolic inequalities and celestial mechanics"_ at NIMS, Daejeon, South Korea. The lectures covered symplectic embeddings, systolic inequalities and restricted 3-body problem.   
+- Jun.2018, Participated in _"CIMPA-NIMS Research School on symplectic embeddings, systolic inequalities and celestial mechanics"_ at NIMS, Daejeon, South Korea.   
+The lectures covered symplectic embeddings, systolic inequalities and restricted 3-body problem.   
 See: http://members.unine.ch/felix.schlenk/Daejeon18/
 
+## Research Experiences
+- Mar.2019 ~ Aug.2019, Seoul National University, _Symplectic Geometry_, Undergraduate research internship, advised by Chelhyun Cho.
+
 ## Teaching Experiences
-- Jan.2018, KAIST, Teaching Assistant in 31st Korean Mathematical Olympiad Winter School.    
+- Jan.2018, KAIST, Teaching Assistant in _31st Korean Mathematical Olympiad Winter School_.    
 Taught ~80 high school students preparing for Romanian Masters of Mathematics, International Mathematical Olympiad, etc. 
 
-- Jul.2017 ~ Aug.2017, KAIST, Teaching Assistant in 27th Korean Mathematical Olympiad Summer School.   
-Taught ~80 high school students preparing for Korean Mathematical Olympiads. 
+- Jul.2017 ~ Aug.2017, KAIST, Teaching Assistant in _27th Korean Mathematical Olympiad Summer School_.   
+Taught ~50 high school students preparing for Korean Mathematical Olympiads. 
 
 ## Awards and Honors
 - Presidential Scholarship on Science (2017 ~ Present),    

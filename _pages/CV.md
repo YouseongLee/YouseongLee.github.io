@@ -2,6 +2,12 @@
 title: Youseong Lee
 permalink: /cv/
 layout: single
+author_profile: false
+read_time: false
+comments: false
+share: true
+related: false
+use_math: true
 ---
 
 - Department of Mathematical Sciences,   

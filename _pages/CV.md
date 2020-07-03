@@ -1,7 +1,79 @@
 ---
-title: CV
+title: Curriculum Vitae
 permalink: /cv/
 layout: single
 ---
 
-CV
+# Youseong Lee
+
+Department of Mathematical Sciences, College of Natural Sciences, Seoul National University   
+Gwanak-gu, Seoul, Republic of Korea
+e-mail: dbrjswjd@snu.ac.kr   
+
+# Education
+Mar. 2017 ~	Present: Seoul National University (Seoul, Korea)   
+Department of Mathematical Sciences (GPA 4.28 / 4.3)
+Minored in Department of Physics & Astronomy (GPA 3.84 / 4.3) 
+
+Mar. 2014 ~	Feb. 2017 Seoul Science High School (Seoul, Korea)
+
+# Research Interests
+Mainly interested in Algebraic Topology and its applications to Physics.   
+Studies Higher Category Theory, Chromatic Homotopy Theory, Higher Gauge Theory, etc.    
+Also deals with numerical analysis involving partial differential equations.    
+
+# Awards and Honors
+Presidential Scholarship on Science (2017 ~ Present),    
+3rd place among individuals in Simon Marais Mathematics Competition (2019),    
+Gold prize in University Students Contest of Mathematics by Korean Mathematical Society (2018),    
+Silver prize in University Students Contest of Mathematics by Korean Mathematical Society (2017),   
+Silver medal in International Mathematical Olympiads (2016),    
+Bronze medal in International Mathematical Olympiads (2015).    
+
+# Research Experience
+## Seoul National University (Sep.2017 – Dec.2017)
+Advisor: Seonhee Lim   
+- Covered Topological Data Analysis in Topology II class: Clustering, Persistent Homology, Entropy.
+- Analyzed time series data using 1st persistent homology. Calculated homologies with C++. 
+- Discussed possible usages of higher persistent homologies, mainly in astronomy. 
+
+## Seoul Science High School					     (Apr. 2015 – Dec. 2015)
+Participated in R&A research about numerical analysis. 
+Analyzed partial differential equation of Predator-Prey Model of Holling II type. 
+The research involved modelling realistic situations into differential equation, designing code embodying gradient descent using MATLAB. 
+
+# Skills and Techniques
+ Game development experience with C++: 
+ Designed shooting game in high school using Win32 API, GDI+.
+ Class experience: Python programming for scientific computations. 
+
+# Courses Taken
+## Mathematics:					 
+Operator Algebra   
+Algebraic Number Theory   
+Introduction to Modular Forms & Cyclotomic Fields   
+Introduction to Invariant Theory   
+Algebraic Geometry   
+Complex Analysis of Several Variables   
+Differential Geometry I, II   
+Commutative Algebra   
+Homological Methods and Representation Theory   
+Real & Complex Analysis   
+Algebra I, II   
+Algebraic Topology I, II   
+Undergraduate Algebra I, II   
+Topology I, II   
+Undergraduate Analysis I, II   
+Linear Algebra I, II   
+Introduction to Scientific Computation   
+
+## Physics:
+Quantum Field Theory I, II   
+General Relativity   
+Relativity and Spacetime   
+Statistical and Thermal Physics   
+Introduction to Quantum Physics I, II   
+Introduction to Electrodynamics   
+Electricity and Magnetism   
+Introduction to Mechanics   
+Introduction to Mathematical Physics   

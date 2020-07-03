@@ -14,7 +14,7 @@ use_math: true
 College of Natural Sciences,   
 Seoul National University   
 - Gwanak-gu, Seoul, Republic of Korea   
-- E-mail: dbrjswjd@snu.ac.kr   
+- E-mail: <dbrjswjd@snu.ac.kr>   
 
 ## Education
 - Mar.2017 ~ Present: Seoul National University (Seoul, Korea)   

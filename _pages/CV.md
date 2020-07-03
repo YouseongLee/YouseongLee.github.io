@@ -25,7 +25,7 @@ Seoul National University
 ## Conferences
 - Jul.2019 ~ Aug.2019, Participated in _"The 2nd International Undergraduate Mathematics Summer School"_ at The University of Tokyo, Tokyo, Japan.   
   - The lectures covered symplectic geometry, operator algebras, representation theory of Lie groups, local class field theory, K-theory, projective varieties, etc.   
-  - See: http://park.itc.u-tokyo.ac.jp/MSF/UGMSS/
+  - See: <http://park.itc.u-tokyo.ac.jp/MSF/UGMSS/>
 
 - Jan.2018, Conference _"Nerd Party Conference"_, Konkuk University, _Music of the Spheres: Plato, Galois, and Physics._   
   - Introduction to Stable homotopy groups, concept of spectral algebraic geometry, equivariant homotopy groups, chromatic homotopy theory & its relation with quantum field theory, Hopf-Galois theory in spectra.
@@ -38,7 +38,7 @@ Seoul National University
 
 - Jun.2018, Participated in _"CIMPA-NIMS Research School on symplectic embeddings, systolic inequalities and celestial mechanics"_ at NIMS, Daejeon, South Korea.   
   - The lectures covered symplectic embeddings, systolic inequalities and restricted 3-body problem.   
-  - See: http://members.unine.ch/felix.schlenk/Daejeon18/
+  - See: <http://members.unine.ch/felix.schlenk/Daejeon18/>
 
 ## Research Experiences
 - Mar.2019 ~ Aug.2019, Seoul National University, _Symplectic Geometry_, Undergraduate research internship, advised by Chelhyun Cho.

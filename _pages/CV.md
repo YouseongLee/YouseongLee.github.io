@@ -4,7 +4,9 @@ permalink: /cv/
 layout: single
 ---
 
-- Department of Mathematical Sciences, College of Natural Sciences, Seoul National University   
+- Department of Mathematical Sciences,   
+College of Natural Sciences,   
+Seoul National University   
 - Gwanak-gu, Seoul, Republic of Korea   
 - e-mail: dbrjswjd@snu.ac.kr   
 
@@ -31,13 +33,16 @@ Introduction to Stable homotopy groups, concept of spectral algebraic geometry, 
 Introduction to category theory, Higher gauge theory, Differential cohomology and ∞-Chern-Simons Theory. 
 
 - Jun.2018, Conference _"Stupid Mathematics Seminar"_ the undergraduate joint seminar, Seoul National University, _Introduction to ∞-category Theory: A View Toward Morse Theory,_ organized by Beomjoon Sohn.   
-A quick review of _Higher Topos Theory"_ by J. Lurie and intruduction to paper _"Associative Algebras and Broken Lines"_ by J. Lurie, H. L. Tanaka.
+A quick review of _Higher Topos Theory_ by J. Lurie and intruduction to paper _"Associative Algebras and Broken Lines"_ by J. Lurie, H. L. Tanaka.
 
 - Jun.2018, Participated in _"CIMPA-NIMS Research School on symplectic embeddings, systolic inequalities and celestial mechanics"_ at NIMS, Daejeon, South Korea. The lectures covered symplectic embeddings, systolic inequalities and restricted 3-body problem.   
 See: http://members.unine.ch/felix.schlenk/Daejeon18/
 
 ## Teaching Experiences
-- 
+- Jan.2018, KAIST, Teaching Assistant in 31st Korean Mathematical Olympiad Winter School. 
+- Jul.2017 ~ Aug.2017, KAIST, Teaching Assistant in 27th Korean Mathematical Olympiad Summer School.   
+Taught ~50 students preparing for Romanian Masters of Mathematics, International Mathematical Olympiad, etc. 
+
 
 ## Awards and Honors
 - Presidential Scholarship on Science (2017 ~ Present),    

@@ -39,10 +39,11 @@ A quick review of _Higher Topos Theory_ by J. Lurie and intruduction to paper _"
 See: http://members.unine.ch/felix.schlenk/Daejeon18/
 
 ## Teaching Experiences
-- Jan.2018, KAIST, Teaching Assistant in 31st Korean Mathematical Olympiad Winter School. 
-- Jul.2017 ~ Aug.2017, KAIST, Teaching Assistant in 27th Korean Mathematical Olympiad Summer School.   
-Taught ~50 students preparing for Romanian Masters of Mathematics, International Mathematical Olympiad, etc. 
+- Jan.2018, KAIST, Teaching Assistant in 31st Korean Mathematical Olympiad Winter School.    
+Taught ~80 high school students preparing for Romanian Masters of Mathematics, International Mathematical Olympiad, etc. 
 
+- Jul.2017 ~ Aug.2017, KAIST, Teaching Assistant in 27th Korean Mathematical Olympiad Summer School.   
+Taught ~80 high school students preparing for Korean Mathematical Olympiads. 
 
 ## Awards and Honors
 - Presidential Scholarship on Science (2017 ~ Present),    

@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Youseong Lee"
-  avatar           : "/assets/images/profile_small.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile_small.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "수학 전공중입니다. "
   location         : "SNU 수리과학부"
   email            : "dbrjswjd@snu.ac.kr"

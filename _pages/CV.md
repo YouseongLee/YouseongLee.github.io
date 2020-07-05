@@ -2,10 +2,10 @@
 title: Youseong Lee
 permalink: /cv/
 layout: single
-author_profile: false
+author_profile: true
 read_time: false
 comments: false
-share: true
+share: false
 related: false
 use_math: true
 ---
@@ -47,7 +47,7 @@ Seoul National University
   - See: <http://members.unine.ch/felix.schlenk/Daejeon18/>
 
 ## Research Experiences
-- Mar.2019 ~ Aug.2019, Seoul National University, _Symplectic Geometry_, Undergraduate research internship, advised by Chelhyun Cho.
+- Mar.2019 ~ Aug.2019, Seoul National University, _Symplectic Geometry_, Undergraduate research internship, advised by Cheolhyun Cho.
 
 ## Teaching Experiences
 - Jan.2018, KAIST, Teaching Assistant in _31st Korean Mathematical Olympiad Winter School_.    

@@ -4,6 +4,8 @@ main:
     url: https://youseonglee.github.io/
   - title: "CV"
     url: https://youseonglee.github.io/cv/
+  - title: "Posts"
+    url: https://youseonglee.github.io/posts/
 #  - title: "Quick-Start Guide"
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sample Posts"

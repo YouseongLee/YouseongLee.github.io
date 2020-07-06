@@ -12,6 +12,7 @@ use_math: true
 
 ## Algebraic Topology
 Localization of Topological Spaces and Spectra
-1. [Group vs Spaces](https://youseonglee.github.io/AT-1/)
+1. [Group vs Space](https://youseonglee.github.io/AT-1/)
+2. [Localization of Spaces: Construction](https://youseonglee.github.io/AT-2/)
 
 ## Algebraic Geometry
